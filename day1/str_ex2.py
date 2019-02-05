@@ -10,7 +10,7 @@ ip_address = input("Please enter an IP address:  ")
 #print(ip_address)
 
 ip_address = ip_address.split(".")
-print()
+
 print("{:<12} {:<12} {:<12} {:<12}".format(*ip_address))
 print()
 
