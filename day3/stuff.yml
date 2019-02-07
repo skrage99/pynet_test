@@ -1,0 +1,10 @@
+---
+key_var1: value1
+key_var2: value2
+key_var3: value3
+key_var4:
+  - Ansible
+  - Tower
+  - Python
+  - Perl
+
